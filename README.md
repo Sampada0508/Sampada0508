@@ -5,120 +5,132 @@
 
 </div>
 
+## 💻 TECH STACK
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Machine Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative AI-8A2BE2?style=for-the-badge"/>
+
+</p>
+
 ###  🚀 About Me
 	•	🔍 I am 4th year ISE Student exploring Machine Learning & Deep Learning
 	•	🌐 Strong in Web Development 
 	•	📊 Love building real-world AI dashboards and have hands on experience in Web Development
 
-  
-### 💼 Internships
 
-🤖 AICTE - Shell Edunet Solutions Internship
-	•	🌱 Completed an internship focused on Green Skills and AI-based solutions with industry mentorship
-	•	📊 Gained hands-on experience in data preprocessing, model building, and evaluation
-	•	🚗 Developed and presented a real-world EV adoption analysis project using a dataset of 20,000+ records
+## 📊 GITHUB STATS
 
-  🌐 Rooman Technologies – Web Development with Generative AI (Ongoing)
-	•	💻 Working on modern web development integrated with Generative AI concepts
-	•	⚙️ Gaining practical experience in JavaScript, frontend development, and AI-powered web applications
-	•	🚀 Exposure to real-world practices including version control, deployment, and project structuring
-	•	📚 Participating in daily Ignite (industry skills) sessions and core domain training, enhancing both technical and problem-solving skills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sampada0508&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sampada0508&theme=tokyonight" />
+</p>
+
 
 ---
+## 🌐 Connect With Me
 
-### 🚀 Projects
+<p align="center">
 
-### 🧠 TruthLens – AI-Powered Deepfake Detection Tool  
-(CNN, ResNet18, TensorFlow, Flask)  
-- 🔍 Developed an AI-based system to detect deepfake videos using Deep Learning and Computer Vision techniques  
-- 🎯 Achieved 89% accuracy using CNN and Transformer-based architectures  
-- 🌐 Built a Flask web application for real-time video analysis, aimed at social security and misinformation prevention
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://github.com/Sampada0508">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 📦 Quick Trace – Smart Product & Expense Tracker  
-(HTML, CSS, JavaScript, Backendless)  
-- 📊 Built a barcode-based web app for product lookup, expiry tracking, and expense management  
-- ⏰ Implemented automated email notifications at 30, 10, 5, and 1 days before product expiry  
-- 📈 Integrated data visualization dashboards for analyzing user spending patterns  
+<a href="https://leetcode.com/YOUR-USERNAME">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
+<a href="https://codolio.com/YOUR-USERNAME">
+  <img src="https://img.shields.io/badge/Codolio-00AEEF?style=for-the-badge"/>
+</a>
 
-### 🤖 EduQuery AI – Generative AI SQL Assistant  
-(Google Gemini, LangChain, Streamlit)  
-- 🧠 Engineered an AI agent to convert natural language queries into executable SQL with 90%+ accuracy  
-- 🗄️ Designed a multi-table relational database for school management with 500+ records  
-- 💬 Implemented conversational memory for handling multi-turn, context-aware queries  
-- ⚡ Developed a Streamlit-based chat UI, reducing time to retrieve complex reports by 70%
+</p>
+
 
 
 ---
 
 
-### 🛠️ Technical Skills
+## 💻 Tech Stack
+
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Web</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>AI / ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN-FF1493?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Database</b></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+</td>
+</tr>
+
+</table>
+
+---
+## 🚀 Projects
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,tensorflow,git,docker,mysql" />
+
+| Project | Tech Stack | Highlights |
+|--------|-----------|-----------|
+| 🧠 **TruthLens** | <img src="https://img.shields.io/badge/CNN-FF1493?style=flat"/> <img src="https://img.shields.io/badge/ResNet18-FF6F00?style=flat"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask"/> | 🔍 Deepfake detection<br>🎯 **89% accuracy**<br>🌐 Real-time web app |
+| 📦 **Quick Trace** | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript"/> <img src="https://img.shields.io/badge/Backendless-00AEEF?style=flat"/> | 📊 Barcode tracking<br>⏰ Expiry alerts<br>📈 Expense analytics |
+| 🤖 **EduQuery AI** | <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat"/> <img src="https://img.shields.io/badge/LangChain-00A67E?style=flat"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit"/> | 🧠 NL → SQL (**90%+**)<br>🗄️ 500+ records DB<br>⚡ Faster queries |
+
 </div>
 
- ## 💻 Programming Languages
-- Java  
-- Python (Basics)  
-
-## 📚 Core Coursework
-- Object-Oriented Programming (OOPS)  
-- Data Structures & Algorithms (DSA)  
-- Web Development  
-
-## 🌐 Web Technologies
-- HTML, CSS, JavaScript  
-- Node.js, React  
-
-## 🤖 AI / ML
-- Machine Learning  
-- Deep Learning  
-- Convolutional Neural Networks (CNN)  
-- Generative AI  
-- LangChain  
-
-## 🧰 Tools & Platforms
-- VS Code  
-- Git  
-- Power BI  
-- Docker  
-
-## 🗄️ Databases
-- SQL  
-- MySQL
-
----
 
 
-### SOFT SKILLS
-Analytical Thinking – Excels at identifying problems and designing effective technical solutions.
-Collaboration and Team work – Works well within teams to drive shared success.
-Strong Communication – Clearly presents ideas across technical and non-technical audiences.
-Flexible Learner – Quickly adapts to new tools, technologies, and challenges.
-Time Efficiency – Manages priorities to consistently meet deadlines and project goals.
-
----
 
 
-### 🏆 Achievements
 
-- 🎯 Built multiple AI-based projects with real-world applications  
-- 📊 Developed dashboards with interactive data visualization  
-- 🤖 Worked on Deep Learning and Generative AI projects  
-- 🚀 Consistently improving problem-solving and development skills
-
----
-
- 
-### 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/sampada-n-s-8840b8283/
-- GitHub: https://github.com/Sampada0508
-
-
-## 📊 GitHub Stats
-
-![Sampada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sampada0508&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sampada0508&layout=compact&theme=tokyonight)
