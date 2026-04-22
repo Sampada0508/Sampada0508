@@ -1,14 +1,16 @@
-<h1 align="center">👋 Hi, I'm Sampada N S</h1>
+<div align="center">
 
-<h3 align="center">💻 AI & ML Developer | Web Developer | ISE Student</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Sampada%20N%20S&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Developer;Web+Developer;Building+Smart+AI+Applications;Creating+Impact+with+Technology"/>
 
-### 🚀 About Me
-	•	🔍 Exploring Machine Learning & Deep Learning
+</div>
+
+###  🚀 About Me
+	•	🔍 I am 4th year ISE Student exploring Machine Learning & Deep Learning
 	•	🌐 Strong in Web Development 
 	•	📊 Love building real-world AI dashboards and have hands on experience in Web Development
 
   
-
 ### 💼 Internships
 
 🤖 AICTE - Shell Edunet Solutions Internship
@@ -22,7 +24,7 @@
 	•	🚀 Exposure to real-world practices including version control, deployment, and project structuring
 	•	📚 Participating in daily Ignite (industry skills) sessions and core domain training, enhancing both technical and problem-solving skills
 
-
+---
 
 ### 🚀 Projects
 
@@ -48,10 +50,14 @@
 - ⚡ Developed a Streamlit-based chat UI, reducing time to retrieve complex reports by 70%
 
 
-
+---
 
 
 ### 🛠️ Technical Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,tensorflow,git,docker,mysql" />
+</div>
 
  ## 💻 Programming Languages
 - Java  
@@ -83,6 +89,8 @@
 - SQL  
 - MySQL
 
+---
+
 
 ### SOFT SKILLS
 Analytical Thinking – Excels at identifying problems and designing effective technical solutions.
@@ -91,12 +99,17 @@ Strong Communication – Clearly presents ideas across technical and non-technic
 Flexible Learner – Quickly adapts to new tools, technologies, and challenges.
 Time Efficiency – Manages priorities to consistently meet deadlines and project goals.
 
+---
+
+
 ### 🏆 Achievements
 
 - 🎯 Built multiple AI-based projects with real-world applications  
 - 📊 Developed dashboards with interactive data visualization  
 - 🤖 Worked on Deep Learning and Generative AI projects  
 - 🚀 Consistently improving problem-solving and development skills
+
+---
 
  
 ### 📫 Connect with me
