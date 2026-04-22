@@ -22,7 +22,7 @@
 
 </p>
 
-###  🚀 About Me
+###  🚀 ABOUT ME
 	•	🔍 I am 4th year ISE Student exploring Machine Learning & Deep Learning
 	•	🌐 Strong in Web Development 
 	•	📊 Love building real-world AI dashboards and have hands on experience in Web Development
@@ -37,7 +37,7 @@
 
 
 ---
-## 🌐 Connect With Me
+## 🌐 CONNECT WITH ME
 
 <p align="center">
 
@@ -64,7 +64,7 @@
 ---
 
 
-## 💻 Tech Stack
+## 💻 TECH STACK
 
 <table align="center">
 <tr>
@@ -117,7 +117,7 @@
 </table>
 
 ---
-## 🚀 Projects
+## 🚀 PROJECTS
 
 <div align="center">
 
