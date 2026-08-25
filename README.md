@@ -23,7 +23,7 @@
 </p>
 
 ###  🚀 ABOUT ME
-	•	🔍 I am 4th year ISE Student exploring Machine Learning & Deep Learning
+	•	🔍 I am an ISE graduate exploring Machine Learning & Deep Learning
 	•	🌐 Strong in Web Development 
 	•	📊 Love building real-world AI dashboards and have hands on experience in Web Development
 
